@@ -340,7 +340,9 @@ img{
 }
 
 .footer-address-link:hover,
-.footer-address-link:focus{
+.footer-address-link:focus,
+.footer-address-contact:hover,
+.footer-address-contact:focus{
     color: var(--accent-color);
 }
 /*======================== END FOOTER ========================*/
