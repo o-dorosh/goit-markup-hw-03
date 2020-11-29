@@ -60,6 +60,11 @@ img{
     margin: 0 auto;
 }
 
+.section{    
+    padding-top: 94px;
+    padding-bottom: 94px;
+}
+
 .modal-btn{
     font-family: var(--main-font);
     font-weight: 700;
@@ -109,6 +114,7 @@ img{
 .header{
     padding-top: 24px;
     padding-bottom: 25px;
+    border: 1px solid #ECECEC;
 }
 
 .navigation{
@@ -212,10 +218,6 @@ img{
 /*======================== END HERO ========================*/
 
 /*======================== OUR PRINCIPLES ========================*/
-.principles{    
-    margin-top: 94px;
-    margin-bottom: 94px;
-}
 
 .principles-list{
     display: flex;
@@ -262,10 +264,6 @@ img{
 /*======================== END WHAT WE ARE DOING ========================*/
 
 /*======================== OUR TEAM ========================*/
-.team{
-    padding-top: 94px;
-    padding-bottom: 94px;
-}
 
 .team-members{
     display: flex;
