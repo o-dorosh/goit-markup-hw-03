@@ -182,7 +182,7 @@ img{
 }
 
 .hero-title{
-    width: 696px;
+    max-width: 696px;
     min-height: 120px;
     margin: 0 252px 30px 252px;
 
