@@ -16,7 +16,7 @@ body{
 
 .logo{
     font-family: var(--secondary-font);
-    font-weight: 700px;
+    font-weight: 700;
     font-size: 26px;
     line-height: 1.912;
     letter-spacing: 0.03em;
@@ -113,8 +113,8 @@ img{
 }
 .header{
     padding-top: 24px;
-    padding-bottom: 25px;
-    border: 1px solid #ECECEC;
+    padding-bottom: 24px;
+    border-bottom: 1px solid #ECECEC;
 }
 
 .navigation{
@@ -192,7 +192,7 @@ img{
     min-height: 120px;
     margin: 0 252px 30px 252px;
 
-    font-weight: 900px;
+    font-weight: 900;
     font-size: 44px;
     line-height: 1.367;
     letter-spacing: 0.06em;
@@ -276,7 +276,7 @@ img{
 }
 
 .team-member-wrapper{
-    margin: 30px 32px;
+    padding: 30px 32px;
 }
 
 .team-member-name{
@@ -301,7 +301,7 @@ img{
 
 /*======================== FOOTER ========================*/
 
-.footer .container{
+.footer{
     padding-top: 60px;
     padding-bottom: 60px;
 }
@@ -348,7 +348,8 @@ img{
 /*======================== PORTFOLIO ========================*/
 
 .main{
-    margin: 94px 0;
+    padding-top: 94px;
+    padding-bottom: 94px;
 }
 
 .filter-list{
