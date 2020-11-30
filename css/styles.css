@@ -18,7 +18,7 @@ body{
     font-family: var(--secondary-font);
     font-weight: 700;
     font-size: 26px;
-    line-height: 1.912;
+    line-height: 1.192;
     letter-spacing: 0.03em;
     text-decoration: none;
     color: var(--main-color);
@@ -113,7 +113,7 @@ img{
 }
 .header{
     padding-top: 24px;
-    padding-bottom: 24px;
+    padding-bottom: 25px;
     border-bottom: 1px solid #ECECEC;
 }
 
