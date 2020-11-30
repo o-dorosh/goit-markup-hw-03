@@ -347,11 +347,6 @@ img{
 
 /*======================== PORTFOLIO ========================*/
 
-.main{
-    padding-top: 94px;
-    padding-bottom: 94px;
-}
-
 .filter-list{
     display: flex;
     justify-content: center;
